@@ -10,4 +10,9 @@ Used for separating contents of an image into foreground and background using a 
 
 ## Random Walker
 Few pixels are labeled as seeds and a random walker is initiated from each of the other pixels. The probability for each random walker corresponding to arriving at each seed is calculated and the pixel is given the label with seed having highest probability  
-![3](https://user-images.githubusercontent.com/31370694/168498100-5041df57-abf6-46bd-a254-281d8e85be8b.png)  
+![3](https://user-images.githubusercontent.com/31370694/168498100-5041df57-abf6-46bd-a254-281d8e85be8b.png)
+
+## SLIC
+Used to generate super-pixels by clustering the pixels of similar colour.  
+![4](https://user-images.githubusercontent.com/31370694/168498219-c15f3ab1-1f9d-4e23-97bc-b7bd8cda61b2.png)  
+
